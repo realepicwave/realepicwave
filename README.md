@@ -1,16 +1,13 @@
-## Hi there 👋
+# hi, realepicwave here 👋
 
-<!--
-**realepicwave/realepicwave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build frontend interfaces with React and Next.js, mostly typed, mostly fast. Lately I've been deep in design systems and trying to make UI that's both accessible and pleasant to use. Tailwind and Vite are usually in the mix.
 
-Here are some ideas to get you started:
+- 🔭 A component library focused on accessibility and web performance.
+- learning TailwindCSS the slow way
+- shipping small and often
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=realepicwave&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=ayu" alt="realepicwave GitHub stats" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=realepicwave&hide_border=true&theme=ayu" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/TailwindCSS-fb923c?style=for-the-badge&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/Vite-fb923c?style=for-the-badge&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/TypeScript-fb923c?style=for-the-badge&logoColor=white" alt="TypeScript" />
